@@ -3,7 +3,7 @@
 
 build:
   gpu: true
-  cuda: "12.6"
+  cuda: "12.1"
   python_version: "3.11"
   python_requirements: requirements.txt
 
